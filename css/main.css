@@ -2283,7 +2283,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .banner-area {
-  background: url(./img/dount/mm4.JPG)  ;
+  background: url(../img/dount/mm4.JPG)  ;
   background-size: cover;
   background-repeat: no-repeat;
   
@@ -2297,7 +2297,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 @media (max-width: 768px) {
   .banner-area {
-    background: url(./img/dount/mm4.JPG) ;
+    background: url(../img/dount/mm4.JPG) ;
     background-position: 50% 90% 50% 50%;
     background-repeat: no-repeat;
     background-size: cover;
